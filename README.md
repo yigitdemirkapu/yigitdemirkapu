@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yiğit</h1>
-<h3 align="center">A passionate iOS developer from Turkey</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">A passionate iOS developer from İstanbul, Turkey</h3>
 
 - 🔭 I’m currently working on [Letshego Digital](https://apps.apple.com/kh/app/letsgo-powered-by-letshego/id1575711413)
 
