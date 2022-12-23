@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate iOS developer from İstanbul, Turkey</h3>
 
-- 🔭 I’m currently working on [Letshego Digital](https://apps.apple.com/kh/app/letsgo-powered-by-letshego/id1575711413)
+#- 🔭 I’m currently working on [Letshego Digital](https://apps.apple.com/kh/app/letsgo-powered-by-letshego/id1575711413)
 
 - 📫 How to reach me **yigitdemirkapu@gmail.com**
 
