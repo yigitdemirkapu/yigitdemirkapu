@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">A passionate iOS developer from İstanbul, Turkey</h3>
+<h3 align="center">A passionate iOS developer from Turkey</h3>
 
 - 📫 How to reach me **yigitdemirkapu@gmail.com**
 
